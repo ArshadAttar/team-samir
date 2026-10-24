@@ -193,7 +193,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                 <div className="relative rounded-2xl overflow-hidden bg-[#1C2028] border border-slate-700/80 shadow-2xl transition-transform duration-500 hover:rotate-0 hover:scale-[1.01]">
                   <div className="aspect-16/10 sm:aspect-4/3 lg:aspect-4/3 relative overflow-hidden bg-slate-900">
                     <img
-                      src="/src/assets/images/hero_samir_ts_fitness_1792417382753.jpg"
+                      src="/public/images/hero_samir_ts_fitness_1792417382753.jpg"
                       alt="Coach Samir - Head Trainer at TS Fitness Pune"
                       className="w-full h-full object-cover object-top"
                       referrerPolicy="no-referrer"
@@ -415,7 +415,7 @@ export const HomePage: React.FC<HomePageProps> = ({
               <div className="relative rounded-2xl overflow-hidden bg-white border border-[#E1E6EF] shadow-md">
                 <div className="aspect-4/3 relative">
                   <img
-                    src="/src/assets/images/hero_trainer_samir_1792415112410.jpg"
+                    src="/public/images/hero_trainer_samir_1792415112410.jpg"
                     alt="Samir Trainer Bio Portrait"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"

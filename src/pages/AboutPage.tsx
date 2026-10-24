@@ -58,7 +58,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
             <div className="lg:col-span-5 space-y-3 sm:space-y-4">
               <div className="rounded-2xl overflow-hidden bg-slate-900 border border-[#E1E6EF] shadow-lg relative aspect-16/10 sm:aspect-4/3 lg:aspect-4/3">
                 <img
-                  src="/src/assets/images/hero_samir_ts_fitness_1792417382753.jpg"
+                  src="/public/images/hero_samir_ts_fitness_1792417382753.jpg"
                   alt="Coach Samir - Founder & Head Coach at TS Fitness"
                   className="w-full h-full object-cover object-top"
                   referrerPolicy="no-referrer"

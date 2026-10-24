@@ -83,7 +83,7 @@ export const NutritionPage: React.FC<NutritionPageProps> = ({ onNavigate: _onNav
               <div className="rounded-2xl overflow-hidden border border-[#E1E6EF] shadow-md bg-white">
                 <div className="aspect-4/3 relative">
                   <img
-                    src="/public/images/nutrition_wellness_bowl_1792415114008.jpg"
+                    src="/images/nutrition_wellness_bowl_1792415114008.jpg"
                     alt="High protein balanced fitness bowl"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
